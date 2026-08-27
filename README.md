@@ -67,7 +67,6 @@ MoneyTrax adalah aplikasi web sederhana untuk membantu pengguna mencatat pemasuk
 ## 🔗 Prototype
 
 Figma Prototype:
-https://www.figma.com/design/cI2xyzbgBh7gVGN1L0XI4H/Redesign-SatuHati?node-id=0-1&t=tSmoVv8htgmlSEL8-1 
 
 ---
 
